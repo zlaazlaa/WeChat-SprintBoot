@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://zlaa-mysql.mysql.database.azure.com:3306/zlaa-mysql
+    username: zlaa
+    password: 531531mqy.
